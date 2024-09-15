@@ -37,5 +37,5 @@ This project focuses on predicting customer churn using machine learning models 
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mahmoud3wwd/Customer-Churn-Prediction-Using-Machine-Learning-and-Neural-Networks
-   cd churn-prediction
+   https://github.com/Mahmoud3wwd/Customer-Churn-Prediction-Using-Machine-Learning-and-Neural-Networks
+   
